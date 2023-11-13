@@ -1,0 +1,72 @@
+body {
+    font: 16px aireal, sans-serif;
+    background-image: url(backgroound\ 2.jpg);
+    margin:auto;
+    color: white;
+}
+
+.container {
+    width: 1250px;
+    height: 200px;
+    margin: auto;
+    background-color: transparent;
+}
+
+.header {
+    padding: 15px;
+}
+
+.header .judul {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.header a {
+    text-decoration: none;
+    color: white;
+    padding: 3px;
+}
+
+.header a:hover {
+    background-color:lightslategray;
+}
+
+.header ul li {
+    display: inline-block;
+    margin-top: 20px;
+    margin-right:20px;
+}
+
+.hero {
+    height: 625px;
+    background-image: url(alienware-Hpaq-kBcYHk-unsplash.jpg);
+    background-size: cover;
+    background-position: 0;
+}
+
+.content {
+    height: ;
+    padding: 20px;
+    background-color: transparent;
+}
+
+.content h2 {
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.content p {
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+.footer {
+    background-color:  transparent;
+    padding: 10px;
+}
+
+.footer .copy {
+    color:white;
+    text-align: center;
+    font-size: 12px;
+}
